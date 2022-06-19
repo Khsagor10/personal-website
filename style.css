@@ -1,0 +1,70 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h3{
+    font-size: 30px;
+}
+h1{
+    font-size: 60px;
+    color: hotpink;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+.link{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    background-color: hotpink;
+    border-radius: 5%;
+    color: white;
+}
+section{
+    height: 700px;
+    margin: 2%;
+}
+
+.half-width{
+    width: 45%;
+    float: left;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 90%;
+}
+.font{
+    padding-top: 15%;
+}
+.center{
+    text-align: center;
+    padding-top: 6%;
+    
+}
+.last img{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    height: 300px;
+    
+}
+.last-at{
+    text-align: center;
+    padding-bottom: 2%;
+}
+.last-at p{
+    color: gray;
+}
+.last-two{
+    text-align: center;
+    padding-bottom: 3%;
+}
+.the-last{
+    text-align: center;
+    background-color: hotpink;
+    border-radius: 2%;
+    padding: 5%;
+    color: white;
+}
